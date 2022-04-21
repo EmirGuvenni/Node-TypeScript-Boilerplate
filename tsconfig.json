@@ -14,5 +14,12 @@
 				"./classes/*"
 			]
 		}
-	}
+	},
+	"include": [
+		"src/**/*"
+	],
+	"exclude": [
+		"tests",
+		"./*.ts"
+	]
 }
