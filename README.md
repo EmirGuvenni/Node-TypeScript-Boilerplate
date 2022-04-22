@@ -2,7 +2,13 @@
 
 This template is a boilerplate for Node.js projects. Which includes hot reloading, path alias resolution and testing.
 
+## Alternative Boilerplates
+
+Alternative boilerplates can be found in other branches.
+
 ## Getting Started
+
+You can start a new repository with this template by clicking the green "Use this template" button.
 
 [Yarn](https://yarnpkg.com/) recommended to be used with this boilerplate. Since there's a `yarn.lock` file and no `package-lock.json` file.
 
